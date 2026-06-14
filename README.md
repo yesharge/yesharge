@@ -14,11 +14,10 @@ Over the past several years I've worked on customer-facing product experiences, 
 ## Current Interests
 
 - AI Developer Tools
-- Platform Engineering
-- Developer Experience
 - Full-Stack Applications
 - Personal Finance
 - Real Estate
+- Endurance training and long-distance running
 
 ## Currently Learning 
 - Learning more about LLM applications, evaluation systems, and AI developer tooling
