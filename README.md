@@ -27,7 +27,7 @@ Over the past several years I've worked on customer-facing product experiences, 
 - Baking
   
 ## Find Me
-- LinkedIn: [...](https://linkedin.com/in/yesharge-abrha)
+- [LinkedIn](https://linkedin.com/in/yesharge-abrha)
 
 <!--
 **yesharge/yesharge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
