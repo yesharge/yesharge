@@ -6,17 +6,15 @@ Over the past several years I've worked on customer-facing product experiences, 
 
 ## What I'm Working On
 
-- Fit Pilot — an AI-assisted job search tool
+- [Fit Pilot](https://github.com/yesharge/fit-pilot-public) — an AI-assisted job search tool
 - AI experiments and developer tooling
 - TypeScript and Go interview prep
-- Real estate investment analysis tools
 
 ## Current Interests
 
 - AI Developer Tools
 - Full-Stack Applications
 - Personal Finance
-- Real Estate
 - Endurance training and long-distance running
 
 ## Currently Learning 
