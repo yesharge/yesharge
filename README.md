@@ -20,6 +20,9 @@ Over the past several years I've worked on customer-facing product experiences, 
 ## Currently Learning 
 - Learning more about LLM applications, evaluation systems, and AI developer tooling
   
+## Production Projects
+- [Accessibility Component Library](https://github.com/yesharge/production-case-studies/blob/main/accessibility-component-library.md)
+  
 ## Ask me about
 - Baking
   
